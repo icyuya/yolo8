@@ -1,0 +1,13 @@
+names:
+- kurohagi
+- rurisuzumedai
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: fish-pgpgz
+  url: https://universe.roboflow.com/kota-h6pkq/fish-pgpgz/dataset/1
+  version: 1
+  workspace: kota-h6pkq
+test: test/images
+train: train/images
+val: valid/images
